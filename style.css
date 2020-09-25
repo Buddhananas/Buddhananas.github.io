@@ -1,0 +1,108 @@
+body
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-success
+{
+  background-color: #4da260;
+  border-color:#4da260;
+}
+
+.btn-success:hover
+{
+  background-color: #8ECCB5;
+  border-color: #8ECCB5;
+}
+
+.jumbotron
+{
+  height: 500px;
+  background-image: url(pic/couple2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mr10
+{
+  padding-left: 140px;
+}
+
+.rsa
+{
+  color: red;
+}
+
+.whi
+{
+  color: white;
+}
+
+.active
+{
+  max-width: auto;
+  max-height:35em;
+}
+
+.ctr
+{
+  text-align: center;
+}
+
+.mat
+{
+  margin-top: 50px;
+}
+
+.w-100
+{
+  max-height: auto;
+  max-width: 70%;
+  margin: auto;
+}
+
+.mrb400
+{
+  margin-bottom: 400px;
+}
+
+.card
+{
+  margin: auto;
+}
+  
+.piep
+{
+
+}
+
+.footflex
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.mrl10
+{
+  margin-left: 10px;
+}
+
+
+
+.mrl10:hover
+{
+  color: #4da260;
+  cursor: context-menu;
+}
+
+.card-link
+{
+  color:#4da260;
+}
+
+.card-link:hover
+{
+  color:#8ECCB5;
+}
